@@ -33,7 +33,7 @@ I am currently exploring domains like Natural Language Processing and Computer V
 
 ## 📊 GitHub Stats
 
-<a><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kash1shTyagi&show_icons=true&hide_border=true&theme=radical" />&nbsp; <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kash1shTyagi&hide_border=true&theme=radical" /></a>
+<a><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kash1shTyagi&show_icons=true&hide_border=true&theme=radical" />&nbsp; </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kash1shTyagi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Kash1shTyagi" /></p>
 
