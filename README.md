@@ -2,11 +2,11 @@
 
 <br />
 
-I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps and non I have transitioned to learning more about machine learning.
+I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps. I have transitioned to learning more about machine learning.
 <br/>
 
 
-I am currently exploring domains like Natural Language Processing and Computer Vision by integrating their applications in websites/apps which allows me to practise dev as well. I am open to collaborate with you on any AI/ML project that piques my interest
+I am currently exploring domains like Natural Language Processing and Computer Vision by integrating their applications in websites/apps which allows me to practice dev as well. I am open to collaborate with you on any AI/ML project that piques my interest
 
 
 <br />
